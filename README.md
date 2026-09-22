@@ -1,0 +1,1 @@
+A Flask-based REST API for a machine learning-powered headline classifier. The API loads a trained ML model and provides headline classification through a `/predict` endpoint, enabling seamless integration with mobile applications such as the Flutter Headline Classifier app.
